@@ -4,6 +4,7 @@ body {
 .d {
   width: 400px;
   heght: 350px;
+  float: right;
 }
 header {
   background-color: green;
