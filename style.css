@@ -2,6 +2,10 @@ body {
   text-align: center;
 }
 .d {
-  width: 150px;
-  heght: 100px;
+  width: 200px;
+  heght: 150px;
+}
+header {
+  background-color: green;
+  color:blue;
 }
