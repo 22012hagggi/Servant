@@ -5,6 +5,7 @@ body {
   width: 400px;
   heght: 350px;
   float: right;
+  float: top;
 }
 header {
   background-color: green;
